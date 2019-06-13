@@ -1,0 +1,8 @@
+{
+  "name": "heartbeat",
+  "app_id": "620a4fed",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}

@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>pulse</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding [ngClass]="{'body-black': !color, 'body-red': color}">
+
+
+  <button ion-button class="test" (click)="call()">
+    <ion-icon slot="end" name="send">
+
+    </ion-icon>
+  </button>
+  <p class="msg">{{msg}}</p>
+
+
+</ion-content>
+z

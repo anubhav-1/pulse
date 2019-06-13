@@ -1,0 +1,25 @@
+page-pulse {
+
+    .body-black {
+        background-color: black;
+    }
+    .body-red {
+        background-color: red;
+    }
+    .test {
+        width: 20%;
+        height: 12%;
+        position: absolute;
+        left: 40%;
+        top: 44%;
+        border-radius: 50% 
+    }
+
+    .msg {
+        position: absolute;
+        left: 45%;
+        top: 70%;
+        color: white;
+        font-size: 16px;
+    }
+}
